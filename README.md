@@ -1,3 +1,5 @@
-i'm dean, a math/computer science student @ stanford
-
-check out my website -> http://deancureton.com
+<samp>
+  i'm dean, a math/computer science student @ stanford
+  <br />
+  check out my website -> <a href="http://www.deancureton.com">deancureton.com</a>
+</samp>
